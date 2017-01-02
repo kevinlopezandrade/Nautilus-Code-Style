@@ -9,14 +9,6 @@
 " This script is only a little modification from the original creator:
 " Vivien Didelot <vivien.didelot@savoirfairelinux.com> script.
 " All credits for him.
-" 
-"
-" For those who want to apply these options conditionally, you can define an
-" array of patterns in your vimrc and these options will be applied only if
-" the buffer's path matches one of the pattern. In the following example,
-" options will be applied only if "/nautilus/" or "/src" is in buffer's path.
-"
-"   let g:nautilus_patterns = [ "/nautilus/", "/src/" ]
 
 if exists("g:loaded_nautilus")
     finish
