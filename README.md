@@ -4,7 +4,7 @@ This plugin is meant to help you respecting the Nautilus coding style.
 
 ## Installation
 
-You can just drop the nautilussty.vim file in your ~/.vim/plugin directory. 
+You can just drop the nautilus.vim file in your ~/.vim/plugin directory. 
 Alternatively you can use the Git repository with a manager such as 
 [Pathogen](https://github.com/tpope/vim-pathogen).
 
