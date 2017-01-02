@@ -1,4 +1,4 @@
-#vivien/vim-linux-coding-style nautilussty.vim
+#nautilus-coding-style.vim
 
 This plugin is meant to help you respecting the Nautilus coding style.
 
