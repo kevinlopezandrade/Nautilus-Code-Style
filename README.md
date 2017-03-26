@@ -1,4 +1,4 @@
-# nautilus-coding-style.vim
+# Nautilus-coding-style.vim
 
 This plugin is to help you respecting the Nautilus coding style.
 
