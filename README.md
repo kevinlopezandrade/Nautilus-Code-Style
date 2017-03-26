@@ -1,4 +1,4 @@
-#nautilus-coding-style.vim
+# nautilus-coding-style.vim
 
 This plugin is to help you respecting the Nautilus coding style.
 
@@ -9,7 +9,7 @@ For neovim ~/.configure/nvim/plugin
 
 Optionally you can use vim plugins managers as VimPlug.
 
-###For Vim Plug
+### For Vim Plug
 
     Plug 'kevinlopezandrade/nautilus-coding-style'
 
